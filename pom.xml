@@ -72,4 +72,10 @@
       </plugins>
     </pluginManagement>
   </build>
+  <distributionManagement>
+  <repository>
+    <id>bvenkydevops</id>
+    <url></url>
+  </repository>
+</distributionManagement>
 </project>
