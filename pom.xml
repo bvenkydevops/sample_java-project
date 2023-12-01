@@ -74,7 +74,7 @@
   </build>
   <distributionManagement>
   <repository>
-    <id>bvenkydevops</id>
+    <id>deploy</id>
     <url>https://github.com/bvenkydevops/sample_java-project.git</url>
   </repository>
 </distributionManagement>
